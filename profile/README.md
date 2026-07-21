@@ -14,7 +14,7 @@ We're building an open-source platform that coordinates home batteries as a flee
 
 📊 **Public Dashboard** — Real-time fleet status, algorithm decisions, and forecast accuracy — visible to everyone
 
-⚡ **Tariff Data Service** — Free public API covering all 12 Australian DNSPs with demand charges, ToU rates, and seasonal variations
+⚡ **Tariff Data Service** — Free public API covering 9 Australian DNSPs across 6 states/territories with demand charges, ToU rates, and seasonal variations
 
 🏠 **Home Energy Integrations** — Open-source tools for battery owners to understand and optimise their energy costs
 
@@ -22,16 +22,22 @@ We're building an open-source platform that coordinates home batteries as a flee
 
 - **Transparent** — Algorithm published. Every decision traceable. Fleet forecasts public.
 - **Open Source** — AGPL (aggregator), MIT (tools). Built in the open.
-- **Member-Owned** — Cooperative governance. 95-98% of revenue returned to members.
+- **Member-Owned** — Cooperative governance. 95–98% of revenue returned to members.
 - **Accountable** — Forecast accuracy tracked and published. Performance benchmarked publicly.
 
 ## Status
 
-🚧 Early development — first components coming soon.
+| Component | Status |
+|-----------|--------|
+| Tariff Data Service | ✅ Live — 9 DNSPs, 87 tariffs |
+| Home Assistant Integration | 🚧 Prototype |
+| Aggregator Core | 📋 Design phase |
+| Public Dashboard | 📋 Planned |
 
 ## Links
 
 - 🌐 [openenergy.org.au](https://openenergy.org.au)
+- 📖 [API Docs](https://api.openenergy.org.au/docs)
 - 💬 Discussions welcome in our repos
 
 ---
