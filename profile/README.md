@@ -6,7 +6,7 @@
 
 **Transparent cooperative battery aggregation for the Australian NEM.**
 
-We're building an open-source platform that coordinates home batteries as a fleet, trades at wholesale NEM prices, and publishes every algorithm decision, fleet forecast, and outcome publicly.
+We're building a transparent, source-available platform that coordinates home batteries as a fleet, trades at wholesale NEM prices, and publishes every algorithm decision, fleet forecast, and outcome publicly.
 
 ## What We're Building
 
@@ -25,7 +25,7 @@ We're building an open-source platform that coordinates home batteries as a flee
 ## Principles
 
 - **Transparent** — Algorithm published. Every decision traceable. Fleet forecasts public.
-- **Open Source** — AGPL (Fleet Core), MIT (tools). Built in the open.
+- **Source-Available, Becoming Open Source** — BSL 1.1 for Fleet Core (converts to Apache-2.0 3 years after each release), MIT for tools. Built in the open; free for cooperatives, individuals, researchers, and non-commercial use from day one.
 - **Member-Owned** — Cooperative governance. 95–98% of revenue returned to members.
 - **Accountable** — Forecast accuracy tracked and published. Performance benchmarked publicly.
 
