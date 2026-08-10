@@ -4,7 +4,7 @@
 
 # Open Energy Collective
 
-**Transparent cooperative battery aggregation for the Australian NEM.**
+**Transparent. Cooperative. Battery aggregation for the Australian NEM.**
 
 We're building a transparent, source-available platform that coordinates home batteries as a fleet, trades at wholesale NEM prices, and publishes every algorithm decision, fleet forecast, and outcome publicly.
 
