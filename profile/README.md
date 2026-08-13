@@ -6,7 +6,7 @@
 
 **Transparent. Cooperative. Battery aggregation for the Australian NEM.**
 
-We're an Australian cooperative trying to to create an ecosystem where home batteries can be coordinated as a fleet, traded at wholesale NEM prices, and governed by the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see. 
+We're an Australian cooperative trying to to create an ecosystem where home batteries can be coordinated as a fleet, trade at wholesale prices, and governed by the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see. 
 
 ## Principles
 
