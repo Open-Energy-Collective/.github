@@ -10,7 +10,7 @@ We're building a transparent, source-available platform that coordinates home ba
 
 ## What We're Building
 
-⚡ **Fleet Platform** — Determines optimal market positions across wholesale and FCAS, coordinates energy dispatch across the battery fleet, and evaluates forecast accuracy and decision quality — published openly
+⚡ **Fleet Platform** — Determines optimal market positions across wholesale and FCAS and evaluates forecast accuracy and decision quality — published openly
 
 📊 **Public Dashboard** — Real-time fleet status, algorithm decisions, and forecast accuracy — visible to everyone
 
