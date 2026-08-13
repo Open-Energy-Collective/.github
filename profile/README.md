@@ -51,7 +51,7 @@ before decisions are locked in, not after.
 - 💬 Contact [@axilotl](https://github.com/axilotl) or open a discussion in any repo if you want to get involved
 - 🔌 Try the Tariff Data Service or the Home Assistant integration and tell us what's
   wrong with them
-- 🌐 [openenergy.org.au](https://openenergy.org.au) — background on the cooperative
+- 🌐 [openenergy.org.au](https://openenergy.org.au)
 - 📖 [API Docs](https://api.openenergy.org.au/docs)
 ---
 
