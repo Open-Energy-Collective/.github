@@ -15,16 +15,16 @@ We're an Australian cooperative trying to figure out how home batteries can be c
 - **Accountable**: Forecast accuracy tracked and published. Performance benchmarked publicly.
 - **Source-Available, Becoming Open Source**: BSL 1.1 for Fleet Platform (converts to Apache-2.0 3 years after each release), MIT for tools. Built in the open; free for cooperatives, individuals, researchers, and non-commercial use from day one.
 
-## What We Want to Build, Together
+## What We Want to Build
 
 ⚡ **Fleet Platform**: a way to coordinate a fleet of home batteries and decide when
 to trade and when to save energy, with the reasoning behind every decision published, not hidden. 
 
 📊 **Public Dashboard**: real-time fleet status, algorithm decisions, and forecast
-accuracy, visible to anyone, not just members.
+accuracy visible to anyone, not just members.
 
-🔌 **Tariff Data Service**: a free public API covering Australian DNSP tariffs, so
-anyone can build on accurate, up-to-date rate data without scraping it themselves.
+🔌 **Tariff Data Service**: a free public API covering Australian DNSP tariffs, 
+providing curated and up-to-date tarrif data so anyone can easily find .
 
 🏠 **Home Energy Integrations**: open-source community integrations for battery
 owners to see and understand their own energy costs, regardless of fleet membership
