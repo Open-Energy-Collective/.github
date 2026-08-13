@@ -24,10 +24,10 @@ to trade and when to save energy, with the reasoning behind every decision publi
 accuracy visible to anyone, not just members.
 
 🔌 **Tariff Data Service**: a free public API covering Australian DNSP tariffs, 
-providing curated and up-to-date tarrif data so anyone can easily find .
+providing curated and up-to-date tarrif data for anyone to use.
 
 🏠 **Home Energy Integrations**: open-source community integrations for battery
-owners to see and understand their own energy costs, regardless of fleet membership
+owners to see and understand their own energy costs, regardless of membership
 
 📡 **NEMWEB Client**: a shared library for AEMO dispatch prices and pre-dispatch
 forecasts, built once and reused across the Fleet Platform and the HA integration.
