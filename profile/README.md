@@ -6,46 +6,53 @@
 
 **Transparent. Cooperative. Battery aggregation for the Australian NEM.**
 
-We're building a transparent, source-available platform that coordinates home batteries as a fleet, trades at wholesale NEM prices, and publishes every algorithm decision, fleet forecast, and outcome publicly.
-
-## What We're Building
-
-⚡ **Fleet Platform** — Determines optimal market positions across wholesale and FCAS and evaluates forecast accuracy and decision quality — published openly
-
-📊 **Public Dashboard** — Real-time fleet status, algorithm decisions, and forecast accuracy — visible to everyone
-
-🔌 **Tariff Data Service** — Free public API covering Australian DNSPs with demand charges, ToU rates, and seasonal variations
-
-🏠 **Home Energy Integrations** — Open-source Home Assistant integration for battery owners to understand and optimise their energy costs
-
-📡 **NEMWEB Client** — Shared library for AEMO dispatch prices and pre-dispatch forecasts, used by Fleet Platform and the HA integration alike
-
-🌐 **Member Portal** — Dashboard for members to track earnings, decisions affecting their battery, and governance participation
+We're an Australian cooperative trying to figure out how home batteries can be coordinated as a fleet, traded at wholesale NEM prices, and governed by the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see. 
 
 ## Principles
 
-- **Transparent** — Algorithm published. Every decision traceable. Fleet forecasts public.
-- **Source-Available, Becoming Open Source** — BSL 1.1 for Fleet Platform (converts to Apache-2.0 3 years after each release), MIT for tools. Built in the open; free for cooperatives, individuals, researchers, and non-commercial use from day one.
-- **Member-Owned** — Cooperative governance. 95–98% of revenue returned to members.
-- **Accountable** — Forecast accuracy tracked and published. Performance benchmarked publicly.
+- **Transparent**: Algorithm published. Every decision traceable. Fleet forecasts public.
+- **Member-Owned**:  Cooperative governance. 95–98% of revenue returned to members.
+- **Accountable**: Forecast accuracy tracked and published. Performance benchmarked publicly.
+- **Source-Available, Becoming Open Source**: BSL 1.1 for Fleet Platform (converts to Apache-2.0 3 years after each release), MIT for tools. Built in the open; free for cooperatives, individuals, researchers, and non-commercial use from day one.
 
-## Status
+## What We Want to Build, Together
 
-| Component | Status |
-|-----------|--------|
-| Tariff Data Service | ✅ Live — 12 DNSPs, 87+ tariffs |
-| Home Assistant Integration | ✅ Live on our own instance — HACS submission pending |
-| Fleet Platform | 📋 Design phase (4-domain model, provisional) |
-| Public Dashboard | 📋 Planned |
-| Member Portal | 📋 Planned |
-| NEMWEB Client | 📋 Planned |
+⚡ **Fleet Platform**: a way to coordinate a fleet of home batteries and decide when
+to trade and when to save energy, with the reasoning behind every decision published, not hidden. 
 
-## Links
+📊 **Public Dashboard**: real-time fleet status, algorithm decisions, and forecast
+accuracy, visible to anyone, not just members.
 
-- 🌐 [openenergy.org.au](https://openenergy.org.au)
+🔌 **Tariff Data Service**: a free public API covering Australian DNSP tariffs, so
+anyone can build on accurate, up-to-date rate data without scraping it themselves.
+
+🏠 **Home Energy Integrations**: open-source community integrations for battery
+owners to see and understand their own energy costs, regardless of fleet membership
+
+📡 **NEMWEB Client**: a shared library for AEMO dispatch prices and pre-dispatch
+forecasts, built once and reused across the Fleet Platform and the HA integration.
+
+🌐 **Member Portal**: a place for members to see their own earnings, the decisions
+affecting their battery, and to take part in governance.
+
+## Where Things Stand
+
+- **Tariff Data Service**: live, 12 DNSPs, 87+ tariffs
+- **Home Assistant Integration**: the EOC Tariff (AU) integration is available to use now via manual HACS installation; HACS submission pending for official inclusion
+- **Fleet Platform**: early design phase, nothing built yet. This is where the most
+  input is useful right now
+- **Public Dashboard, Member Portal, NEMWEB Client**: not started
+
+## Get Involved
+
+This is a cooperative, not a product launch. We want people in the conversation
+before decisions are locked in, not after.
+
+- 💬 Contact [@axilotl](https://github.com/axilotl) or open a discussion in any repo if you want to get involved
+- 🔌 Try the Tariff Data Service or the Home Assistant integration and tell us what's
+  wrong with them
+- 🌐 [openenergy.org.au](https://openenergy.org.au) — background on the cooperative
 - 📖 [API Docs](https://api.openenergy.org.au/docs)
-- 💬 Discussions welcome in our repos
-
 ---
 
 *Open Energy Collective Pty Ltd (ACN 700 429 429) — Queensland, Australia*
