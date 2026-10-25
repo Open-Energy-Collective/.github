@@ -29,9 +29,6 @@ providing curated and up-to-date tarrif data for anyone to use.
 🏠 **Home Energy Integrations**: open-source community integrations for battery
 owners to see and understand their own energy costs, regardless of membership
 
-📡 **NEMWEB Client**: a shared library for AEMO dispatch prices and pre-dispatch
-forecasts, built once and reused across the Fleet Platform and the HA integration.
-
 🌐 **Member Portal**: a place for members to see their own earnings, the decisions
 affecting their battery, and to take part in governance.
 
