@@ -38,7 +38,7 @@ affecting their battery, and to take part in governance.
 - **Home Assistant Integration**: the EOC Tariff (AU) integration is available to use now via manual HACS installation; HACS submission pending for official inclusion
 - **Fleet Platform**: early design phase, nothing built yet. This is where the most
   input is useful right now
-- **Public Dashboard, Member Portal, NEMWEB Client**: not started
+- **Public Dashboard, Member Portal: not started
 
 ## Get Involved
 
