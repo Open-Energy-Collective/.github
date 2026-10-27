@@ -6,12 +6,11 @@
 
 **Transparent. Cooperative. Battery aggregation for the Australian NEM.**
 
-We're an Australian cooperative trying to to create an ecosystem where home batteries can be coordinated as a fleet and trade at wholesale prices. Built for the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see. 
+We're an Australian cooperative trying to to create an ecosystem where home batteries can be viewed as a nation wide fleet no matter which provider is being used. Built for the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see. 
 
 ## Principles
 
-- **Transparent**: Algorithm published. Every decision traceable. Fleet forecasts public.
-- **Member-Owned**:  Cooperative governance. 95–98% of revenue returned to members.
+- **Transparent**: Every decision traceable. Fleet forecasts public.
 - **Accountable**: Forecast accuracy tracked and published. Performance benchmarked publicly.
 - **Source-Available, Becoming Open Source**: BSL 1.1 for Fleet Platform (converts to Apache-2.0 3 years after each release), MIT for tools. Built in the open; free for cooperatives, individuals, researchers, and non-commercial use from day one.
 
