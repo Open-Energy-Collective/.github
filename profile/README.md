@@ -35,8 +35,8 @@ affecting their battery, and to take part in governance.
 
 - **Tariff Data Service**: live, 12 DNSPs, 87+ tariffs
 - **Home Assistant Integration**: the EOC Tariff (AU) integration is available to use now via manual HACS installation; HACS submission pending for official inclusion
-- **Fleet Platform**: early design phase, nothing built yet. This is where the most
-  input is useful right now
+- **Fleet Platform**: early design phase and prototyping. This is where the most
+  input is useful right now. Enquire about private repo access.
 - **Public Dashboard, Member Portal: not started
 
 ## Get Involved
