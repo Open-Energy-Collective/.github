@@ -50,7 +50,7 @@ flowchart LR
   OPT -- "Plan and current Decision" --> HFC
   OPT --> CO
   REG ~~~ CO
-  CO -. "inverter write, not switched on" .-> HFC
+  CO -. "inverter write" .-> HFC
   HFC --> INV
   REG --> EV
   EV -.-> PD
@@ -67,7 +67,7 @@ Thick border: public repo. Dashed: not built or not switched on yet. Fleet Platf
 | Registrar | Accepts Plans from any registered producer and serves the governing Plan for each home: the newest valid Plan from the producer assigned to it, the fleet's own optimiser by default. Records every Plan, every Decision and what the home actually did. |
 | Plan Adapters | A member's own optimiser can submit Plans for their home. They are recorded and scored alongside the fleet's, and govern the home once that producer is assigned to it. An adapter runs in the member's environment and reaches only the Registrar's Plans API. Specified, not built. |
 | Evaluator | A separate service that reads only the Registrar and scores forecasts and Plans against outcomes. |
-| Coordinator | Carries a Decision to the inverter and reads it back. Built, not switched on. |
+| Coordinator | Carries a Decision to the inverter and reads it back. |
 
 ## Repos
 
