@@ -31,9 +31,9 @@ flowchart LR
   end
   subgraph FP["Fleet Platform (fleet-core)"]
     CB["Context Builder<br/>forecasts and prices for each home"]
-    OPT["Optimizer<br/>the fleet's own Plan for each home,<br/>and each cycle's Decision"]
+    OPT["Optimizer<br/>the fleet's own Plan for each home"]
     CO["Coordinator<br/>carries a Decision to the inverter"]
-    REG["Registrar<br/>accepts Plans, serves the governing one,<br/>records every Decision and outcome"]
+    REG["Registrar<br/>accepts Plans,<br/>records every Decision and outcome"]
     EV["Evaluator<br/>scores Plans against what happened"]
   end
   PD["Public Dashboard"]:::planned
@@ -49,6 +49,7 @@ flowchart LR
   REG -- "governing Plan" --> OPT
   OPT -- "Plan and current Decision" --> HFC
   OPT --> CO
+  REG ~~~ CO
   CO -. "inverter write, not switched on" .-> HFC
   HFC --> INV
   REG --> EV
