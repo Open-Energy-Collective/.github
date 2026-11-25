@@ -98,7 +98,8 @@ This is a cooperative, not a product launch. We want people in the conversation 
 - **Run your own optimiser?** Plan Adapters are specified and not built. [Open a discussion](https://github.com/Open-Energy-Collective/.github/discussions) with the optimiser you run and the schedule format it outputs.
 - **Review the design.** [Ask in Discussions](https://github.com/Open-Energy-Collective/.github/discussions) for read access to fleet-core.
 
-- Questions and access requests: [Discussions](https://github.com/Open-Energy-Collective/.github/discussions), or contact [@axilotl](https://github.com/axilotl).
+Questions and access requests: [Discussions](https://github.com/Open-Energy-Collective/.github/discussions), or contact [@axilotl](https://github.com/axilotl).
+
 - [openenergy.org.au](https://openenergy.org.au)
 - [API Docs](https://api.openenergy.org.au/docs)
 
