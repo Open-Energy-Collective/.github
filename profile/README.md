@@ -89,8 +89,6 @@ fleet-core and ha-fleet-connect are private until their first public release. [A
 
 ## Contribute
 
-This is a cooperative, not a product launch. We want people in the conversation before decisions are locked in, not after.
-
 - **Check your tariff.** Look up your network tariff in the [API](https://api.openenergy.org.au/docs) and open an issue in tariff-service if a rate, window or demand charge is wrong.
 - **Add a DNSP or tariff.** Ergon and TasNetworks are not covered yet. Start from the DNSP's approved price list.
 - **Run ha-tariff-au** on your Home Assistant and report what breaks.
