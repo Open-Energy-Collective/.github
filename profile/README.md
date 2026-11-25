@@ -4,9 +4,9 @@
 
 # Open Energy Collective
 
-**Transparent. Cooperative. Battery aggregation for the Australian NEM.**
+**Transparent. Cooperative. Battery aggregation for Australia's National Electricity Market (NEM).**
 
-We're an Australian cooperative trying to create an ecosystem where home batteries can be viewed as a nation wide fleet no matter which provider is being used. Built for the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see.
+We're an Australian cooperative trying to create an ecosystem where home batteries can be viewed as a nationwide fleet no matter which provider is being used. Built for the people whose batteries make it possible - with every algorithm decision, fleet forecast, and outcome published for anyone to see.
 
 ## Principles
 
@@ -73,13 +73,13 @@ Thick border: public repo. Dashed: not built or not switched on yet. Fleet Platf
 
 | Repo | What it is | Licence | State | Public |
 |---|---|---|---|---|
-| [tariff-service](https://github.com/Open-Energy-Collective/tariff-service) | Free REST API of Australian network tariffs | MIT | Live. 12 DNSPs, 105 tariffs | yes |
+| [tariff-service](https://github.com/Open-Energy-Collective/tariff-service) | Free REST API of Australian network tariffs, by DNSP (the local electricity network company) | MIT | Live. 12 DNSPs, 105 tariffs | yes |
 | [ha-tariff-au](https://github.com/Open-Energy-Collective/ha-tariff-au) | Network tariff sensors for Home Assistant | MIT | Released, in the Home Assistant Marketplace | yes |
 | ha-fleet-connect | Home Assistant integration that joins a home to the fleet and shows its Plan | MIT | Running on the pilot. Sigenergy only | not yet |
 | fleet-core | Fleet Platform: the parts above | BSL 1.1, Apache-2.0 after 3 years | Running on the pilot. Plans and records, does not control a battery | not yet |
 | Public Dashboard, Member Portal | Fleet-wide and per-member views | BSL 1.1 | Not started | no |
 
-fleet-core and ha-fleet-connect are private until their first public release. Ask for read access if you want to review the design or the code before then.
+fleet-core and ha-fleet-connect are private until their first public release. [Ask in Discussions](https://github.com/Open-Energy-Collective/.github/discussions) for read access if you want to review the design or the code before then.
 
 ## What's next
 
@@ -94,10 +94,11 @@ This is a cooperative, not a product launch. We want people in the conversation 
 - **Check your tariff.** Look up your network tariff in the [API](https://api.openenergy.org.au/docs) and open an issue in tariff-service if a rate, window or demand charge is wrong.
 - **Add a DNSP or tariff.** Ergon and TasNetworks are not covered yet. Start from the DNSP's approved price list.
 - **Run ha-tariff-au** on your Home Assistant and report what breaks.
-- **Own a GoodWe or Sungrow battery on Home Assistant?** ha-fleet-connect finds Sigenergy entities today. Open a discussion with your inverter integration's entity list.
-- **Run your own optimiser?** Plan Adapters are specified and not built. Open a discussion with the optimiser you run and the schedule format it outputs.
-- **Review the design.** Ask for read access to fleet-core.
-- Contact [@axilotl](https://github.com/axilotl) or open a discussion in any repo if you want to get involved
+- **Own a GoodWe or Sungrow battery on Home Assistant?** ha-fleet-connect finds Sigenergy entities today. [Open a discussion](https://github.com/Open-Energy-Collective/.github/discussions) with your inverter integration's entity list.
+- **Run your own optimiser?** Plan Adapters are specified and not built. [Open a discussion](https://github.com/Open-Energy-Collective/.github/discussions) with the optimiser you run and the schedule format it outputs.
+- **Review the design.** [Ask in Discussions](https://github.com/Open-Energy-Collective/.github/discussions) for read access to fleet-core.
+
+- Questions and access requests: [Discussions](https://github.com/Open-Energy-Collective/.github/discussions), or contact [@axilotl](https://github.com/axilotl).
 - [openenergy.org.au](https://openenergy.org.au)
 - [API Docs](https://api.openenergy.org.au/docs)
 

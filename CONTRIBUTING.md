@@ -4,7 +4,7 @@ Thanks for helping. This file applies to every repo in the organisation that has
 
 ## Where to ask
 
-Open a discussion in the repo your question is about. Use an issue only for something that is wrong or missing. If you are unsure which repo, ask in the tariff-service discussions and the maintainer will move it.
+Ask questions and request access in the organisation's [Discussions](https://github.com/Open-Energy-Collective/.github/discussions). Use an issue in the repo concerned only for something that is wrong or missing.
 
 ## Report a tariff error
 
