@@ -19,24 +19,21 @@ We're an Australian cooperative trying to to create an ecosystem where home batt
 ⚡ **Fleet Platform**: a way to coordinate a fleet of home batteries and decide when
 to trade and when to save energy, with the reasoning behind every decision published, not hidden. 
 
-📊 **Public Dashboard**: real-time fleet status, algorithm decisions, and forecast
-accuracy visible to anyone, not just members.
+📊 **Public Dashboard**: real-time, fleet wide views of energy plan algorithm decisions, live usage, forecast
+data and accuracy evaluations.
 
 🔌 **Tariff Data Service**: a free public API covering Australian DNSP tariffs, 
-providing curated and up-to-date tarrif data for anyone to use.
+providing curated and up-to-date tariff data which can be used for dynamic calculations and enablement of energy integration.
 
-🏠 **Home Energy Integrations**: open-source community integrations for battery
-owners to see and understand their own energy costs, regardless of membership
+🏠 **Home Energy Integrations**: open-source community integrations for battery owners to see, understand and automate energy using their own energy data.
 
-🌐 **Member Portal**: a place for members to see their own earnings, the decisions
-affecting their battery, and to take part in governance.
+🌐 **Member Portal**: a place for members to gain insights into their energy usage and optimisation opportunities.
 
 ## Where Things Stand
 
 - **Tariff Data Service**: live, 12 DNSPs, 87+ tariffs
-- **Home Assistant Integration**: the EOC Tariff (AU) integration is available to use now via manual HACS installation; HACS submission pending for official inclusion
-- **Fleet Platform**: early design phase and prototyping. This is where the most
-  input is useful right now. Enquire about private repo access.
+- **Home Assistant Integration**: the EOC Tariff (AU) integration is available to use via the Marketplace.
+- **Fleet Platform**: early design phase and prototyping. This is where the most input is useful right now. Enquire about private repo access.
 - **Public Dashboard, Member Portal: not started
 
 ## Get Involved
